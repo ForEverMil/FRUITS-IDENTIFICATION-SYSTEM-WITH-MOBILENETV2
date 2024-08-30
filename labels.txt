@@ -1,0 +1,10 @@
+0 Bơ
+1 Cam
+2 Cherry
+3 Chuối
+4 Dâu tây
+5 Dưa hấu
+6 Dứa
+7 Kiwi
+8 Táo
+9 Xoài
