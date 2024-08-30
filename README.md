@@ -1,2 +1,3 @@
 # FRUITS-IDENTIFICATION-SYSTEM-WITH-MOBILENETV2
 The system builds and develops a system capable of accurately recognizing and classifying popular fruits. With the advancement of deep learning and deep neural networks, fruit identification will bring widespread applications in practice.
+The model has been trained and recognizes 10 types of fruit with a relatively high accuracy of 98%, although the amount of data will still be limited. The model using MobileNetV2 has good learning and implementation value if developed into a software. Application to identify many different types of fruit, but requires a lot of dataset.
